@@ -27,13 +27,13 @@ Designed with a **responsive layout** and clean UI for practice in front-end dev
 
 # 🔗 Links
 
-1. GitHub Repository: [ Portfolio Repo](https://github.com/adhilunnikrishnan/Netflix-clone.git)
+1. GitHub Repository: [ Portfolio Repo](https://niranjandascp.github.io/Portfolio/)
 ---
 ## 📂 Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/yourusername/Netflix-clone.git
    cd netflix-clone
 2. Open the folder in VS Code
 
@@ -45,7 +45,7 @@ Designed with a **responsive layout** and clean UI for practice in front-end dev
  
 **screenshot of website**
   
-   <img src="./assets/images/netflix clone.png"> 
+   <img src="./assets/images/netfix clone full ss.png"> 
 ---
 
 ## ⭐ If you like this project, consider giving it a star on GitHub!
