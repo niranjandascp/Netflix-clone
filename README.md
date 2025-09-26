@@ -27,13 +27,13 @@ Designed with a **responsive layout** and clean UI for practice in front-end dev
 
 # 🔗 Links
 
-1. GitHub Repository: [ Netflix-Clone Repo](https://github.com/codewithayana/Netflix-Clone)
+1. GitHub Repository: [ Netflix-Clone Repo](https://github.com/niranjandascp/Netflix-clone)
 ---
 ## 📂 Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Netflix-clone.git
+   git clone https://github.com/niranjandascp/Netflix-clone.git
    cd netflix-clone
    code .
 2. Open the folder in VS Code
