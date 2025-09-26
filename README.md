@@ -27,7 +27,7 @@ Designed with a **responsive layout** and clean UI for practice in front-end dev
 
 # 🔗 Links
 
-1. GitHub Repository: [ Portfolio Repo](https://niranjandascp.github.io/Portfolio/)
+1. GitHub Repository: [ Netflix-Clone Repo](https://github.com/codewithayana/Netflix-Clone)
 ---
 ## 📂 Installation & Setup
 
@@ -35,6 +35,7 @@ Designed with a **responsive layout** and clean UI for practice in front-end dev
    ```bash
    git clone https://github.com/yourusername/Netflix-clone.git
    cd netflix-clone
+   code .
 2. Open the folder in VS Code
 
 3. Install Live Server extension
